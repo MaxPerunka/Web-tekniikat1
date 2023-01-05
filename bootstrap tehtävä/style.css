@@ -1,0 +1,10 @@
+/* making the code noticeable */
+i{
+    background-color: coral;
+    border: 1px solid black;
+    width: 100px;
+    height: 200px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: -10px;
+}
