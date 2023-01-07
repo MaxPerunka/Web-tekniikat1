@@ -1,11 +1,16 @@
 body{
     position: relative;
-    display: grid;
-    grid-template-columns: 1fr 5fr;
-    grid-template-rows: 12vh 26vh 12vh;
-    background-color: #fff;
+
+    background-color: #141827;
 }
 
+nav{
+    background-color: #6779a7;
+}
+
+span{
+    color: orange;
+}
 
 i{
     
@@ -15,3 +20,4 @@ i{
     margin: 10px;
     margin-top: 10px;
 }
+
