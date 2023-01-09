@@ -1,0 +1,33 @@
+$primaryBtn : rgb(255, 204, 0);
+
+nav{
+    background-image: repeating-linear-gradient(navy, indigo, rgb(250, 114, 205));
+}
+
+li a{
+    background-color: $primaryBtn;
+}
+
+a:hover {
+    background-color: rgb(23, 193, 29);
+}
+
+h2 + div{
+    background-color: rgb(87, 130, 196);
+}
+
+a > span{
+    color: rgb(198, 251, 243);
+}
+
+a span{
+   font-family: cursive;
+}
+
+li ~ a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button[type]{
+    background-image: repeating-linear-gradient(cyan, rgb(243, 178, 178), pink);
+}
