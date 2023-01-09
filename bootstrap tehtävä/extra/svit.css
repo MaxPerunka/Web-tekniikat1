@@ -19,7 +19,7 @@ header { /* Header */
 
 /*Adding background image to accordion*/
 section{
-    background-image: url("/bootstrap tehtävä/images/switzerland-g9a83d0460_1280.jpg");
+    background-image: url("../images/switzerland-g9a83d0460_1280.jpg");
 }
 
 nav{ /* Navigation layout*/

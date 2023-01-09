@@ -23,7 +23,7 @@ header { /* Header layout */
 
 /*Adding background image to accordion*/
 section{
-    background-image: url("/bootstrap tehtävä/images/jamaica-g9bc836c90_1280.jpg");
+    background-image: url("../images/jamaica-g9bc836c90_1280.jpg");
 }
 
 nav{ /* Navigation layout*/
