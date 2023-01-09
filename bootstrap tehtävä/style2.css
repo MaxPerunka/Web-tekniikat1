@@ -1,0 +1,30 @@
+nav {
+  background-image: repeating-linear-gradient(navy, indigo, rgb(250, 114, 205));
+}
+
+li a {
+  background-color: rgb(255, 204, 0);
+}
+li a :hover {
+  color: rgb(23, 193, 193);
+}
+
+ul + li {
+  border: 2px solid orange;
+}
+
+div > h2 {
+  background-color: white;
+}
+
+p a {
+  background-color: rgb(255, 204, 0);
+}
+
+nav ~ div {
+  font-family: cursive;
+}
+
+button[type] {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}/*# sourceMappingURL=style2.css.map */
